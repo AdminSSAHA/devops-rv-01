@@ -6,5 +6,5 @@ provider "azurerm" {
 
 variable "git-variable" {
   type = string
-  default = "git"
+  default = "git-1"
 }
