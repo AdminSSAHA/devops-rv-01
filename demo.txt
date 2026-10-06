@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello i am demo file in local.
+=======
+Hello I am demo file in Repo.
+>>>>>>> 6c4275684933f7c8603c05a22b720a0370f2ce81
